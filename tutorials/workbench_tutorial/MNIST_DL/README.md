@@ -1,11 +1,10 @@
 ---
 sort: 2
-
 ---
 
 
 
-# Deep Learning Example
+# Deep-Learning
 
 {% include list.liquid all=true %}
 

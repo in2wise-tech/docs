@@ -1,11 +1,10 @@
 ---
 sort: 1
-
 ---
 
 
 
-# Machine Learning Example
+# Machine Learning
 
 {% include list.liquid all=true %}
 
